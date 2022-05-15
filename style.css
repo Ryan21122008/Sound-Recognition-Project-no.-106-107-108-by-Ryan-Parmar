@@ -1,0 +1,46 @@
+body{
+    background-color:#1196f5;
+    text-align:center;
+}
+.heading{
+    font-size:35px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight:bold;
+    background-color:white;
+}
+.heading h3{
+    color:#20fa36;
+    letter-spacing:2px;
+    font-size:25px;
+}
+
+#soundname, #accuracy{
+    font-size:25px;
+    font-family: 'Koulen', cursive;
+    letter-spacing:2px;
+    margin:20px;
+}
+.start{
+    height:50px;
+    width:100px;
+    margin-top:20px;
+    font-size:20px;
+}
+img{
+    width:400px;
+    height:400px;
+    margin:20px;
+}
+#footer{
+    text-align:center;
+    background-color:white;
+    position:fixed;
+    width:100%;
+    line-height:40px;
+    bottom:0;
+    text-shadow:5px 5px 3px #b1b3b5;
+    font-size:15px;
+}
+
